@@ -1,0 +1,1 @@
+sed -i 's/    n           ( 9 4 3);/    n           ( 6 4 4);/' system/decomposeParDict.hierarchical
